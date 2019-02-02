@@ -1,1 +1,3 @@
 # PPM
+A last minute solution to achieve most functions with minimum effort when you have 4 final projects in 3 days...
+![alt text](https://github.com/HenryLin97/PPM/blob/master/image9.png)
